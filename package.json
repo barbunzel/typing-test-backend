@@ -1,0 +1,22 @@
+{
+  "name": "typing-test-backend",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbunzel/typing-test-backend.git"
+  },
+  "author": "barbunzel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/barbunzel/typing-test-backend/issues"
+  },
+  "homepage": "https://github.com/barbunzel/typing-test-backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
